@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="PowerBI_Reporte.url">🔗 Abrir reporte en Power BI Service</a>
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiMGJkMzBiMmEtNzdiYS00ZDI0LTgyYjEtZDIxMThlYzQyYTVkIiwidCI6IjRkMWM0Yzk5LTdiMGUtNDk4Ny1hMTY4LTc4NTJkNjViMzYzMCJ9">🔗 Abrir reporte en Power BI Service</a>
 </p>
 
 ---
