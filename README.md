@@ -124,9 +124,9 @@ Los datos se obtuvieron vía **API de Spotify**, se procesaron en **Python** y s
 
 
 ## Equipo
- **Agustin Albornoz**
- **Raquel Lorenzo**
- **Ramyi Gossen**
+ **Agustin Albornoz** | 
+ **Raquel Lorenzo** | 
+ **Ramyi Gossen** | 
 
 ---
 
