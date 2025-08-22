@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/img/logo.png" alt="Logo del proyecto" width="160">
+  <img src="img/logo.png" alt="Logo del proyecto" width="160">
 </p>
 
 <h1 align="center">Proyecto Spotify Podcasts (2019–2024)</h1>
